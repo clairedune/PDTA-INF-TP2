@@ -24,7 +24,7 @@ body{
     }
 
 .case{
-    margin:5 ;
+    margin:5 auto;
     background-color:#AAAAEE;
     padding:0px; 
     float:left;
