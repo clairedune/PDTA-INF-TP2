@@ -24,7 +24,7 @@ body{
     }
 
 .case{
-    margin:5 auto;
+    margin:5px;
     background-color:#AAAAEE;
     padding:0px; 
     float:left;
@@ -34,9 +34,10 @@ body{
 
 .video{
     margin:0 auto;
+    background-color:#EEEEFF;
     clear:both;
-    height:400px;
-    width:600px;
+    height:100px;
+    width:260px;
 }
  
 
