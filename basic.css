@@ -1,0 +1,51 @@
+
+body{
+    font-family:helvetica;
+    
+    }
+
+
+.entete{
+    margin:0 auto;
+    background-color:#AAAAEE;
+    height:40px;
+    text-align:center;
+    width:900px;
+}
+
+
+.contenu{
+    margin:10 auto;
+    background-color:#EEEEFF;
+    padding:0px; 
+    clear:both;
+    height:800px;
+    width:900px;    
+    }
+
+.case{
+    margin:5 ;
+    background-color:#AAAAEE;
+    padding:0px; 
+    float:left;
+    height:200px;
+    width:280px;    
+    }
+
+.video{
+    margin:0 auto;
+    clear:both;
+    height:400px;
+    width:600px;
+}
+ 
+
+.pied{
+    margin:0 auto;
+    clear:both;
+    background-color:#AAAAEE;
+    width:900px;
+    font-size:14px;
+    text-align:right;
+    }
+    
